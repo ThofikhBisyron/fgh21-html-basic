@@ -1,0 +1,58 @@
+table{
+    background-color: aliceblue;
+    color: gray;
+}
+body{
+    background-color: #2794b1;#C5D3f6
+}
+.register{
+    padding-bottom: 15px;
+    padding-top: 30px;
+    font-size: 25px;
+    text-align: center;
+}
+.br{
+    text-align: center;
+    font-size: 12px;
+}
+.br1{
+    font-size: 12px;
+    text-align: center;
+    padding-bottom: 8px;
+}
+td{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+button:hover{
+    background-color: skyblue;
+}
+button{
+    border-radius: 3px;
+    border-style: hidden;
+    background-color: cyan;
+    color:  white;
+    height: 40px;
+    width: 70px;
+}
+.but{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: right;
+}
+.teks1{
+    padding-top: 10px;
+    color: grey;
+    font-size: 15px;
+}
+p{
+    color: white;
+    font-size: 10px
+}
+input{
+    height: 30px;
+    width: 100%;
+}
+h1{
+    color: white;
+}

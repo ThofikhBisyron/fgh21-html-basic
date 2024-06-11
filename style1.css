@@ -1,0 +1,34 @@
+.barisatas{
+    height: 70  px;
+    color: white;   
+    background-color: #6D7AE0;#6D7AE0
+    
+ 
+    
+}
+table{
+    font-size: 20px;
+    border-collapse: collapse;
+    border-radius: 15px;
+    background-color: white;
+    border-color: #C5D3f6
+    
+    
+
+
+}
+body{
+    background-color: #C5D3f6;#C5D3f6
+}
+.baris{
+    color: gray;
+    height: 60px;
+}
+
+.baris:hover{
+    background-color: #EDECFE;
+}
+td{
+    padding-right: 80px;
+    padding-left: 20px;
+}
